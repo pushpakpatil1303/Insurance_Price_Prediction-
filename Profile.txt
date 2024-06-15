@@ -1,0 +1,1 @@
+web: sh stepup.sh && streamlit run app.py
